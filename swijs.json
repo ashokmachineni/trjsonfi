@@ -1,0 +1,77 @@
+{
+  "actors": [
+    {
+      "category" : "News",
+      "image" : "http://www.oregonmag.com/wp-content/uploads/2012/07/ABC-news-logo.jpg",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/893.m3u8",
+      "title" : "ABC News"
+    },
+    {
+     "category" : "News",
+      "image" : "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/36611.m3u8",
+      "title" : "CNN"
+    },
+    {
+     "category" : "News",
+      "image" : "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/44354.m3u8",
+      "title" : "CNN International"
+    },
+    {
+      "category" : "Sports",
+      "image" : "http://www.hulkusc.com/wp-content/uploads/2015/04/unnamed.png",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/904.m3u8",
+      "title" : "Fox News"
+    },
+    {
+     "category" : "News",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/500px-MSNBC_2015_logo.svg.png",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/44628.m3u8",
+      "title" : "Msnbc"
+    },
+    {
+       "category" : "Indian",
+      "image" : "https://yt3.ggpht.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAAAAAA/b-RZ1gDQAIc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+      "link" : "http://iptvsale.info:8889/live/ashok.uncg/skype/787.m3u8",
+      "title" : "BBC News"
+    },
+    {
+       "category" : "Sports",
+      "image" : "http://www.dish.com/entertainment/channels/images/willow-cricket.jpg",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/44726.m3u8",
+      "title" : "WILLOW"
+    },
+    {
+       "category" : "Sports",
+      "image" : "http://cdn.exstreamist.com/wp-content/uploads/2015/07/hgtv-watch-online.jpg",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/27463.m3u8",
+      "title" : "HGTV"
+    },
+    {
+       "category" : "News",
+      "image" : "https://pbs.twimg.com/profile_images/629351437676511232/PnAYQDx8.png",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/2109.m3u8",
+      "title" : "ESPN"
+    },
+    {
+       "category" : "News",
+      "image" : "https://pbs.twimg.com/profile_images/714946924105883648/4fgNVF4H.jpg",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/896.m3u8",
+      "title" : "BloomBerg"
+    },
+    {
+       "category" : "News",
+      "image" : "https://www.docker.com/sites/default/files/BBC%20News_0.png",
+      "link" : "http://iptvsale.info:8889/live/ashok.uncg/skype/787.m3u8",
+      "title" : "BBC News"
+    },
+    {
+      "category" : "Sports",
+      "image" : "http://dupdates.tk/TvIcons/nbsn.jpg",
+      "link" : "http://go.teamexpat.ninja/live/bzjlaead/1P3qY4ace3/8125.m3u8",
+      "title" : "NBC"
+    }
+    
+  ]
+}
